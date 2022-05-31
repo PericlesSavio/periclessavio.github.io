@@ -1,3 +1,3 @@
 Personal website
 
-Link: [periclessavio.github.io](periclessavio.github.io)
+Link: [periclessavio.github.io](http://periclessavio.github.io)
