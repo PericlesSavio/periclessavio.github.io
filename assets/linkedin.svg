@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="white"
+   role="img"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="linkedin.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.3333333"
+     inkscape:cx="32.4"
+     inkscape:cy="-0.18"
+     inkscape:window-width="1920"
+     inkscape:window-height="985"
+     inkscape:window-x="-8"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">LinkedIn</title>
+  <metadata
+     id="metadata827">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>LinkedIn</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g974"
+     transform="matrix(0.31896752,0,0,0.31896752,-2.5190181,0.96477708)">
+    <path
+       d="m 8.0451321,2.4979342 c 0,-3.01572789 2.5067219,-5.4619315 5.5990659,-5.4619315 h 64.56918 c 3.092242,0 5.599065,2.44620361 5.599065,5.4619315 V 67.822065 c 0,3.016747 -2.506823,5.461932 -5.599065,5.461932 h -64.56918 c -3.092344,0 -5.5990659,-2.445185 -5.5990659,-5.461932 z"
+       style="fill:#006699;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.01883"
+       id="path14"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 31.012549,60.863477 V 26.433237 H 19.568575 v 34.43024 z M 25.290511,21.732369 c 3.990745,0 6.474646,-2.643856 6.474646,-5.947912 -0.07437,-3.37843 -2.483901,-5.9489307 -6.398947,-5.9489307 -3.914639,0 -6.474136,2.5705007 -6.474136,5.9489307 0,3.304056 2.483391,5.947912 6.323859,5.947912 h 0.07437 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.01883"
+       id="path28"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 37.344865,60.863477 H 48.788737 V 41.636173 c 0,-1.029015 0.07437,-2.057011 0.376559,-2.792604 0.827287,-2.055993 2.710283,-4.185342 5.871703,-4.185342 4.141023,0 5.797533,3.157345 5.797533,7.785876 V 60.863477 H 72.277488 V 41.121666 c 0,-10.575424 -5.64583,-15.496359 -13.175063,-15.496359 -6.173684,0 -8.883968,3.450767 -10.389794,5.801201 h 0.07641 V 26.433237 H 37.34517 c 0.150175,3.2307 0,34.43024 0,34.43024 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.01883"
+       id="path30"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
