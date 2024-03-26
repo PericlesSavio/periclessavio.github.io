@@ -5,3 +5,12 @@ except Exception as e:
 WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CLASS_NAME, 'closer'))).click()
 
 driver.execute_script(f"document.getElementById('input_placa').value = '{self._fila.get('placa')}'")
+
+placa = 'EDT-4E91'
+renavam = '971256349'
+
+placa = 'FBD5H88'
+renavam = '00465365132'
+
+login = '98934019840'
+senha = 'efb9d759d'
